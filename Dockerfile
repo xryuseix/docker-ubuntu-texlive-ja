@@ -2,7 +2,7 @@
 # Released under the MIT license
 # https://opensource.org/licenses/MIT
 
-FROM ubuntu:18.04
+FROM ubuntu:24.04
 
 MAINTAINER Futa HIRAKOBA
 ENV DEBIAN_FRONTEND=noninteractive
